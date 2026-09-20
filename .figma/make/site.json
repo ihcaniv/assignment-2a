@@ -1,0 +1,10 @@
+{
+  "description": "Empowers students and teachers with a dashboard to manage assessments, track skill progress, and securely store verified digital skill achievements.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
